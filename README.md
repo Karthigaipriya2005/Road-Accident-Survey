@@ -6,7 +6,7 @@ Impact & Usefulness
 
 This project demonstrates how data analytics and machine learning can support road safety planning.
 The insights generated can help:
-• Authorities identify high-risk zones
-• Improve preventive safety measures
-• Support policy-making with data-driven evidence
-• Enhance public awareness about accident risk factors
+Authorities identify high-risk zones.
+Improve preventive safety measures.
+Support policy-making with data-driven evidence.
+Enhance public awareness about accident risk factors.
