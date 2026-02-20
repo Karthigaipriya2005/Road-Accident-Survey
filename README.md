@@ -1,3 +1,4 @@
+Road Accident Survey
 Project Objectives
 
 Analyze road accident data to identify key patterns and trends.Perform multidimensional analysis using OLAP operations (year, location, vehicle type, weather, etc.).Identify accident hotspots using KMeans clustering .Predict accident severity using Decision Tree and Random Forest models.Develop an interactive Streamlit dashboard for visualization and data-driven decision-making. 
